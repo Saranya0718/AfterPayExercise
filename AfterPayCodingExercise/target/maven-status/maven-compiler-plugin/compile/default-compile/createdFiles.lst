@@ -1,0 +1,5 @@
+com\cardfraud\model\CardTransaction.class
+com\cardfraud\processors\DetectionRunner.class
+com\cardfraud\model\Fraud.class
+com\cardfraud\processors\FraudDetection.class
+com\cardfraud\utils\DateUtils.class
